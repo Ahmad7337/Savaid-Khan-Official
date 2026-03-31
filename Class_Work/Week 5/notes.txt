@@ -1,0 +1,1 @@
+Presented the topic "Domain Naming System (DNS) and Domain Naming Sytem Security Extension (DNSSEC)" before the class.
