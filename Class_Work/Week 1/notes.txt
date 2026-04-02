@@ -1,0 +1,13 @@
+Studied : 
+  Basic Lab Setup
+  Virtualization using VMware, virtualbox
+  Android emulators and simulators
+  Various tools that are needed to perform pentesting
+
+  Useful pentesting Physical devices:
+    Flipper zero, killer USB, OMG Cable
+
+Career Paths for Pentesting/CEH
+Jobs market, potential and scheme for future CEH career
+
+Prerequisite certificates as well as courses for networking, cybersecurity field in general and CEH in particular.
