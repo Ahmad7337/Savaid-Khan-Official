@@ -1,5 +1,1 @@
-Completed Tryhackme room BountryHunter
-Learned the bascics of metasploitable 2
-Learned the syntax, commands, swtiches, flags of tool : Nmap.
-Learned the syntex of ftp, ssh, http
-Learned the use of bruteforce tool Hydra. 
+
