@@ -1,0 +1,6 @@
+Studied Appendix A
+  Explain Operating System Concepts
+  Explain Different Types of File Systems
+  Explain Computer Network Fundamentals
+  Summarize the Basic Network Troubleshooting
+  Explain Virtualiztion Concepts
