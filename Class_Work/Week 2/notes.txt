@@ -1,0 +1,8 @@
+Studied in class
+  Subnetting
+  Supernetting
+  IPs, ip addresses, IPv4 vs IPv6
+  NAT, PAT, Ip protocols, need for subnetting/supernetting
+  IP classes, network host/clients
+  Variable Length Subnet Masks (VLSM)
+  Exercises in class of VLSM subnetting, solved various questions.
