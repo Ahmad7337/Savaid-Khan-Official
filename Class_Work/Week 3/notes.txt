@@ -1,6 +1,24 @@
+Completed TryHackMe Rooms 
+  Linux Fundamentals Part I
+  What is Networking?
+  Windows Commandline
+  Networking Concepts
+  Operating Systems : Introduction
+  Offensive Security Intro
+
 Studied Appendix A
   Explain Operating System Concepts
   Explain Different Types of File Systems
   Explain Computer Network Fundamentals
   Summarize the Basic Network Troubleshooting
   Explain Virtualiztion Concepts
+  Explain Differnt Information Security Controls
+  Summarize Network Segmentation Concepts
+  Use Network Security Solutions
+  Summarize Data Backup Process
+  Summarize Disaster Recovery process
+  Explain Cyber Threat Intelligence 
+  Explain Threat Modeling Methodology
+  Explain different phases of Penetration Testing
+
+
