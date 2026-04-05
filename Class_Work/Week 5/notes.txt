@@ -1,5 +1,7 @@
 Presented the topic "Domain Naming System (DNS) and Domain Naming Sytem Security Extension (DNSSEC)" before the class.
+
 Completed Tryhackme room BountryHunter
+Completed HacktheBox  Fawn, Dancing,
 Learned
   bascics of metasploitable 2
   syntax, commands, swtiches, flags of tool : Nmap.
@@ -7,6 +9,10 @@ Learned
   use of bruteforce tool Hydra. 
   commands and basics of server message block.
 
-Completed 
-  TryHackMe Room Bounty Hunter
-  HackTheBox machines Fawn, Dancing,
+Learned Module 01: Introduction to Ethical Hacking
+  Information Security Overview
+  Hacking Concepts and Hacker Classes
+  Ethical Hacking Concepts
+  Hacking Methodologies and Frameworks
+  Information Security Controls
+  Information Security Laws and Standards
