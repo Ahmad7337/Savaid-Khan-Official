@@ -9,3 +9,7 @@ Intel gathering through "Robot.txt"
 Analysis tool : Netcraft
 Linux tool : subfinder
   subfinder flags, switches
+  sublister
+  sherlock
+  Wayback machine + linux api waybackypy
+  dnsdumpster
