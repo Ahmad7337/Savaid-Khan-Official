@@ -1,0 +1,22 @@
+Learned the basics of bash scripting language.
+  syntax and different ways to use for loop
+  syntax and usage of while loop
+  global and local variables
+  functions syntax
+  input and output using 'read' or 'echo' commands
+  operators AND, OR
+  if statement
+  elif statement
+
+Prepared followin topics for presentation
+  Domanin Naming System
+    Basics, step-by-step working process and ports
+    DNS Packet format and header
+    DNS hierarchy
+  Domain Naming System Security Extension
+    Pros vs Cons
+    Digital signatures, encryption, DS records and keys
+    Operation of DNSSec
+    
+    
+  
