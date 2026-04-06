@@ -7,9 +7,13 @@ Studied Google Dorks
 Intel gathering through "Robot.txt"
 
 Analysis tool : Netcraft
-Linux tool : subfinder
-  subfinder flags, switches
+Learned about Linux intel gathering tools  : 
+  subfinder
   sublister
   sherlock
   Wayback machine + linux api waybackypy
   dnsdumpster
+  nslookup
+  zenmap
+
+Opensource intel (OSINT) Framework, passive
