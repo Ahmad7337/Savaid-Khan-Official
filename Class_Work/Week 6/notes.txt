@@ -4,7 +4,13 @@ Studied Google Dorks
   intext:"keyword"
   inurl:"keyword"
 
-Intel gathering through "Robot.txt"
+Intel gathering through "Robot.txt", 'fuzzing, tools:
+  feroxbuster
+  ffuf
+  gobuster
+  dirb
+
+cysec wordlist : SecList, rockyou.txt 
 
 Analysis tool : Netcraft
 Learned about Linux intel gathering tools  : 
@@ -17,3 +23,23 @@ Learned about Linux intel gathering tools  :
   zenmap
 
 Opensource intel (OSINT) Framework, passive
+
+intel gathering from dnslookup
+  Klotch.net
+  kali tool : dig
+    dig google.com
+
+Metasploit
+  payload creation : msfvenom
+  commands:
+    search, use, msfconfig, exploit
+
+AI tools
+  hexstrike
+  Xbow ai
+
+Password cracking: openssl, john the ripper
+
+Microsoft Threat Modeling tool
+
+
