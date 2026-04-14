@@ -25,7 +25,7 @@ Learned about Linux intel gathering tools  :
 Opensource intel (OSINT) Framework, passive
 
 intel gathering from dnslookup
-  Klotch.net
+  Kloth.net
   kali tool : dig
     dig google.com
 
