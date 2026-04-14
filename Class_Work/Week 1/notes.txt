@@ -1,8 +1,10 @@
 Studied : 
   Basic Lab Setup
   Virtualization using VMware, virtualbox
+  containers docker, parrot,
   Android emulators and simulators
   Various tools that are needed to perform pentesting
+  Kali, WireShark, XAMPP, EVE-NG
 
   Useful pentesting Physical devices:
     Flipper zero, killer USB, OMG Cable
