@@ -1,15 +1,35 @@
 Studied : 
   Basic Lab Setup
   Virtualization using VMware, virtualbox
+    UTM - virtualization for macOS (apple silicon)
   containers docker, parrot,
   Android emulators and simulators
   Various tools that are needed to perform pentesting
   Kali, WireShark, XAMPP, EVE-NG
-
+    Cisco Packet Tracer - network topology simulation
+    GNS3 - advanced network emulation
+ 
   Useful pentesting Physical devices:
     Flipper zero, killer USB, OMG Cable
-
+ 
+  Vulnerable practice apps/VMs:
+    Metasploitable 1 & 2
+    OWASP Juice Shop
+    DVWA - damn vulnerable web app
+    Mutillidae - OWASP top 10 practice
+ 
+  Productivity/remote access tools:
+    Obsidian / CherryTree - notetaking
+    WinSCP - secure file transfer windows to linux
+ 
 Career Paths for Pentesting/CEH
 Jobs market, potential and scheme for future CEH career
-
+  Cybersecurity job roles - SOC Analyst, Pentester, DFIR etc.
+  Job websites - LinkedIn, CyberSecJobs, Indeed, Dice
+  Cybersecurity domains - Red Team, Blue Team, GRC, Cloud Security
+  Famous personalities - Kevin Mitnick, Bruce Schneier etc.
+ 
 Prerequisite certificates as well as courses for networking, cybersecurity field in general and CEH in particular.
+  Fortinet NSE Level 1 - network security fundamentals
+  Fortinet NSE Level 2 - FortiGate firewall basics
+  Palo Alto PCNSA - network security administrator
