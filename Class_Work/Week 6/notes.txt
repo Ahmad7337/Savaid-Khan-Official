@@ -3,15 +3,24 @@ Studied Google Dorks
   intitle:"keyword"
   intext:"keyword"
   inurl:"keyword"
-
+ 
+OSINT tools and intel gathering:
+  Shodan - internet-wide device search
+  Exploit-DB - public vulnerability database
+  Whois / whois.domaintools.com
+  TheHarvester - email and domain OSINT
+  HaveIBeenPwned - credential breach lookup
+  IntelX / IntelBase - dark web intel search
+  Wappalyzer - web tech fingerprinting
+ 
 Intel gathering through "Robot.txt", 'fuzzing, tools:
   feroxbuster
   ffuf
   gobuster
   dirb
-
+ 
 cysec wordlist : SecList, rockyou.txt 
-
+ 
 Analysis tool : Netcraft
 Learned about Linux intel gathering tools  : 
   subfinder
@@ -19,27 +28,42 @@ Learned about Linux intel gathering tools  :
   sherlock
   Wayback machine + linux api waybackypy
   dnsdumpster
+  dnsdumpster / DNS recon / DNS enum
   nslookup
   zenmap
-
+ 
 Opensource intel (OSINT) Framework, passive
-
+ 
 intel gathering from dnslookup
   Kloth.net
   kali tool : dig
     dig google.com
-
+ 
 Metasploit
   payload creation : msfvenom
   commands:
     search, use, msfconfig, exploit
-
+  Responder - LLMNR/NBT-NS poisoning
+  RATs - Remote Access Trojans
+  Info stealers - credential harvesting malware
+ 
+Dark web:
+  Tor, .onion services overview
+ 
+Cryptography and hashing:
+  Hashing concepts - MD5, SHA-1, SHA-256
+  Rainbow tables - precomputed hash attacks
+  Lattice-based cryptography - post-quantum approach
+ 
 AI tools
   hexstrike
   Xbow ai
-
+ 
 Password cracking: openssl, john the ripper
-
+ 
 Microsoft Threat Modeling tool
-
-
+  STRIDE framework
+  OWASP Threat Dragon - open-source threat modeling
+ 
+Traffic analysis:
+  Wireshark - packet capture and protocol analysis
