@@ -4,10 +4,16 @@ Learned the basics of bash scripting language.
   global and local variables
   functions syntax
   input and output using 'read' or 'echo' commands
+  inline arguments - $1, $2, $@
+  nested loops
   operators AND, OR
   if statement
   elif statement
-
+ 
+  Version control:
+    Git - init, add, commit, push, pull, branching
+    GitHub - repos, collaboration
+ 
 Prepared followin topics for presentation
   Domanin Naming System
     Basics, step-by-step working process and ports
@@ -17,6 +23,3 @@ Prepared followin topics for presentation
     Pros vs Cons
     Digital signatures, encryption, DS records and keys
     Operation of DNSSec
-    
-    
-  
