@@ -1,8 +1,19 @@
 Studied in class
   Subnetting
-  Supernetting
+  Supernetting / CIDR aggregation
   IPs, ip addresses, IPv4 vs IPv6
   NAT, PAT, Ip protocols, need for subnetting/supernetting
   IP classes, network host/clients
+  IP address types - public, private, loopback, APIPA
   Variable Length Subnet Masks (VLSM)
   Exercises in class of VLSM subnetting, solved various questions.
+  Manual router configuration (CLI)
+  Static routing - manual route configuration
+  Dynamic routing - RIP, OSPF, EIGRP overview
+  Routers and switches - roles and differences
+  Collision domains, broadcast domains
+  IEEE standards - 802.3, 802.11 etc.
+  IANA - IP, port & protocol assignments
+  OSI Model - all 7 layers and their responsibilities
+  TCP/IP Model - 4-layer comparison with OSI
+  Manual traceroute (Windows & Linux)
