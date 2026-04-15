@@ -5,9 +5,13 @@ Completed TryHackMe Rooms
   Networking Concepts
   Operating Systems : Introduction
   Offensive Security Intro
-
+ 
 Studied Appendix A
   Explain Operating System Concepts
+    Windows file system - NTFS, FAT32, exFAT
+    Linux file system hierarchy - FHS
+    macOS file system - APFS, HFS+
+    Linux permissions - rwx, chmod, chown, SUID/SGID
   Explain Different Types of File Systems
   Explain Computer Network Fundamentals
   Summarize the Basic Network Troubleshooting
@@ -20,5 +24,6 @@ Studied Appendix A
   Explain Cyber Threat Intelligence 
   Explain Threat Modeling Methodology
   Explain different phases of Penetration Testing
-
-
+ 
+  Cyber laws - CFAA, GDPR, PTA
+  Ethical hacking scope and rules of engagement
