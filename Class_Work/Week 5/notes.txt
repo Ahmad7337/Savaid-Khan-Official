@@ -1,14 +1,29 @@
 Presented the topic "Domain Naming System (DNS) and Domain Naming Sytem Security Extension (DNSSEC)" before the class.
-
+ 
 Completed Tryhackme room BountryHunter
+  Anonymous - FTP / SMB anonymous login
 Completed HacktheBox  Fawn, Dancing,
 Learned
   bascics of metasploitable 2
   syntax, commands, swtiches, flags of tool : Nmap.
+    Nmap NSE - script engine
+    Nmap OS detection, service version scanning
+    decoy scan (-D), IP ID scan
+    Zenmap - GUI frontend for Nmap
   vulnerabilities of ftp, ssh, http
   use of bruteforce tool Hydra. 
   commands and basics of server message block.
-
+    SMB exploitation - EternalBlue, MS17-010
+  Netcat - banner grabbing, port scanning, reverse shells
+  SearchSploit - offline exploit-db search
+  CVEs - common vulnerabilities and exposures database
+  Wappalyzer - web tech fingerprinting
+ 
+  Practical labs:
+    Exploited SMB using msfconsole (ms17-010 / EternalBlue)
+    Payload generation with msfvenom (reverse TCP shells)
+    Exploited SMB, SSH, FTP services
+ 
 Learned Module 01: Introduction to Ethical Hacking
   Information Security Overview
   Hacking Concepts and Hacker Classes
@@ -16,3 +31,7 @@ Learned Module 01: Introduction to Ethical Hacking
   Hacking Methodologies and Frameworks
   Information Security Controls
   Information Security Laws and Standards
+ 
+CEH Modules covered:
+  Module 2 - Footprinting and Reconnaissance
+  Module 3 - Scanning Networks
